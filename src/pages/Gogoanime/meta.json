@@ -11,6 +11,8 @@
       "*://*.gogoanime.so/*",
       "*://*.gogoanime.ai/*",
       "*://*.gogoanime.vc/*",
+      "*://*.gogoanime.cm/*",
+      "*://*.gogoanime.wiki/*",
       "*://*.gogoanimes.co/*",
       "*://*.animego.to/*"
     ],
